@@ -3,6 +3,8 @@ I am a third-year computer science student at Georgia Institute of Technology, w
 
 <h1>Projects</h1>
 <p> BitMedic (1st place at HackGSU 10): A Django web app that enhances patient experience by centralizing records and doctors in one place along with secure blockchain-based prescription services that aims to reduce abuse. </p>  
+<p>Virtual Estate: A ML application that predicts housing prices based on various features such as size, location, schools, etc and suggests users to buy/sell along with market volatility metrics. I developed this application using scikit-learn and incorporated it into our web app that uses Django. </p>
+<p>Spotify Lyrics ChatGPT translator: A Python application that searches a song asked by the user, gets the lyrics by scraping Spotify, and translates it using langchain and openai's chatbots, and modifies spotify UI to show the translated lyrics there.</p>
 <p> Discord Bot for Science Bowl: Serves as a digital buzzer and scorekeeper for science bowl competitions. Developed using discord.py library. </p>
 <p> Minesweeper AI Game Solver: Solves a game of minesweeper using knowledge and inferences rules. </p>
 <p> 2048: Developed this classic game using HTML, CSS, and Javascript. </p>
