@@ -1,5 +1,5 @@
 <h1>Introduction</h1>
-I am a third-year computer science student at Georgia Institute of Technology, with concentrations in intelligence and information networks. I am passionate about programming and problem-solving, and I love developing full-stack and data science projects, especially during hackathons. 
+I am a fourth-year computer science student at Georgia Institute of Technology, pursuing a Master's in Machine Learning. I am passionate about programming and problem-solving, and I love developing full-stack and data science projects, especially during hackathons. 
 
 <h1>Projects</h1>
 <p> BitMedic (1st place at HackGSU 10): A Django web app that enhances patient experience by centralizing records and doctors in one place along with secure blockchain-based prescription services that aims to reduce abuse. </p>  
@@ -11,7 +11,7 @@ I am a third-year computer science student at Georgia Institute of Technology, w
 
 <h1>Technical Skills</h1>
 <h3>Languages</h3>
-<p>Python, Java, Javascript, C++, SQL, Assembly, C
+<p>Python, Rust, Java, Javascript, C++, SQL, Assembly, C
 <h3>Frameworks & Tools</h3>
 <p>Django, Node.js, MongoDB, TensorFlow, Pandas, Linux, Git, Tableau, Langchain, Flask</p>
 
