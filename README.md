@@ -1,5 +1,5 @@
 <h1>Introduction</h1>
-I am a fourth-year computer science student at Georgia Institute of Technology, pursuing a Master's in Machine Learning. I am passionate about programming and problem-solving, and I love developing full-stack and data science projects, especially during hackathons. 
+I am a fourth-year computer science student at Georgia Institute of Technology, pursuing a Master's in Machine Learning. I am passionate about programming and problem-solving. I enjoy CodeForces contests where I solve algorithmic problems and learn about efficient data structures and code design practices. I also like exploring machine learning by building projects and particiating in hackathons. 
 
 
 <h1>Projects</h1>
